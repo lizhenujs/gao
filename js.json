@@ -22,7 +22,8 @@
     {"key":"非凡资源","name":"🐝非凡资源","type":1,"api":"https://cj.ffzyapi.com/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
     {"key":"淘片资源","name":"🐝淘片资源xml","type":0,"api":"https://taopianapi.com/home/cjapi/as/sea/vod/xml/m3u8","playUrl":"","searchable":1,"quickSearch":0},
     {"key":"68资资源","name":"🐝68资资源","type":1,"api":"https://caiji.68zyapi.com/api.php/provide/vod/ ","playUrl":"","searchable":0,"quickSearch":0},
-    
+    {"key":"csp_xml_影图资源","name":"🐝影图资源","type":1,"api":"https://cj.vodimg.top/api.php/provide/vod/","playUrl":"","searchable":1,"quickSearch":1},
+
     {"key":"drpy_js_豆瓣","name":"皮皮虾DMBox支持弹幕,体验更佳","type":3,"api":"./lib/drpy2.min.js","ext":"./js/drpy.js"},
     {"key":"csp_WoGG","name":"玩偶哥哥[jar]","type":3,"api":"csp_WoGG","searchable":1,"quickSearch":1,"filterable":1,"ext":"http://127.0.0.1:9978/file/tvfan/token.txt+4k|fhd|auto$$$http://tvfan.xxooo.cf/"},
     {"key":"csp_DuoX","name":"多线[jar]","type":3,"api":"csp_DuoX","searchable":1,"quickSearch":1,"filterable":1},
